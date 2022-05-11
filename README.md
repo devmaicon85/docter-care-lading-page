@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img alt="FeedWidget" src="image.png" />
+  <img alt="FeedWidget" src=".vscode/imageGit.png" />
 </p>
 
 ## 🧪 Tecnologias
