@@ -13,7 +13,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Html
 - Css
 - JavaScript
-- 
 
 
 ## 🚀 Como executar
@@ -25,17 +24,13 @@ $ git clone https://github.com/devmaicon85/docter-care-lading-page
 
 # entrar na pasta do projeto
 $ cd docter-care-lading-page
-```
 
 
-```bash
-
-# Para iniciar o projeto
-
-# LiveServer
+# Para iniciar o projeto com LiveServer
 Com extensão liveserver instalada, clique com o botão direito em cima de index.html > Abrir com LiveServer
 
-
+ou apenas abra o arquivo index.html em seu navegador
+```
 
 ## 💻 Projeto
 
