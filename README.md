@@ -47,7 +47,9 @@ Você pode visualizar o layout do projeto original através do link abaixo:
 
 ## 🔖 NextLevel
 
-Implementei nesse projeto de lading page um script que implanta automaticamente o projeto completo que também foi realizado na NLW IMPULSE
+Implementei nesse projeto um script que implanta automaticamente o Feedback Widget - Projeto completo que realizei completo também na NLW
+
+O projeto do Feedback Widget:
 
 - [https://github.com/devmaicon85/widget](https://github.com/devmaicon85/widget)
 
