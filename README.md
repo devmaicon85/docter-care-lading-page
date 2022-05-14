@@ -47,11 +47,7 @@ Você pode visualizar o layout do projeto original através do link abaixo:
 
 ## 🔖 NextLevel
 
-Implementei nesse projeto um script que implanta automaticamente o Feedback Widget - Projeto completo que realizei completo também na NLW
-
-O projeto do Feedback Widget:
-
-- [https://github.com/devmaicon85/widget](https://github.com/devmaicon85/widget)
+Implementei nesse projeto um script de WIDGET no qual desenvolvi nesse link - [https://github.com/devmaicon85/widget](https://github.com/devmaicon85/widget)
 
 
 
